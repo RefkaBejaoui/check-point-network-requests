@@ -1,0 +1,23 @@
+header {text-align: center ;
+    text-decoration: underline;
+    color : rebeccapurple
+}
+body {
+border :  solid black 3px;
+width : 500px;
+height : 400px;
+margin-left: 35%;
+
+}
+footer {
+    text-align: right;
+    font-size: 10px;
+   
+}
+main{
+   margin-left: 30%;
+   
+}
+/* div {
+background-color: rgb(228, 211, 244);
+} */
